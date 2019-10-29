@@ -20,7 +20,7 @@ def monopoly_with_third_tier
   	  :rent_in_dollars => {
   	    :level_1 => 1,
   	    :level_2 => 2,
-  	    :level_3 +> 3,
+  	    :level_3 => 3,
   	    :level_4 => 4
   	  }
   	} 
